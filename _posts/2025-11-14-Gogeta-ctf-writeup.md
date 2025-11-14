@@ -4,7 +4,7 @@ author: M0hmedGamal (gem0x00)
 categories: [CTF, Web]
 tags: [CTF-Solutions] 
 ---
-#Gogeta
+# Gogeta
 
 Hello , At first when I saw the website it was like this :
 <img width="1145" height="643" alt="Pasted image 20251114230844" src="https://github.com/user-attachments/assets/fe80b3b2-2c1b-4d2c-af52-485384397f03" />
